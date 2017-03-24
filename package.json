@@ -1,0 +1,17 @@
+{
+  "name": "phantom-lambda",
+  "version": "0.0.1",
+  "description": "Phantom lambda",
+  "author": "me",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/"
+  },
+  "keywords": [],
+  "devDependencies": {},
+  "dependencies": {
+    "node-horseman": "^3.2.0"
+  }
+}
